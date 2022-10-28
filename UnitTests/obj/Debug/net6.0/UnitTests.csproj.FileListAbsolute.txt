@@ -117,8 +117,6 @@ E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\nunit.engi
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLogic.deps.json
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLogic.runtimeconfig.json
-E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLibrary.deps.json
-E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLibrary.runtimeconfig.json
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLogic.exe
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\UnitTests.exe
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\UnitTests.deps.json
@@ -201,10 +199,8 @@ E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\zh-Hans\Mi
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLibrary.dll
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLogic.dll
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLogic.pdb
-E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\InventoryAndCharacterLibrary.pdb
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\UnitTests.csproj.AssemblyReference.cache
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfoInputs.cache

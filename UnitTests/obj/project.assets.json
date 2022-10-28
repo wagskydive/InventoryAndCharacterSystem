@@ -994,27 +994,10 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "InventoryAndCharacterLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "17.3.2",
-          "NUnit": "3.13.3",
-          "NUnit.Console": "3.15.2",
-          "NUnit3TestAdapter": "4.2.1"
-        },
-        "compile": {
-          "bin/placeholder/InventoryAndCharacterLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/InventoryAndCharacterLibrary.dll": {}
-        }
-      },
       "InventoryAndCharacterLogic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "InventoryAndCharacterLibrary": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.3.2",
           "NUnit": "3.13.3",
           "NUnit.Console": "3.15.2",
@@ -4090,11 +4073,6 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "InventoryAndCharacterLibrary/1.0.0": {
-      "type": "project",
-      "path": "../InventoryAndCharacterLibrary/InventoryAndCharacterLibrary.csproj",
-      "msbuildProject": "../InventoryAndCharacterLibrary/InventoryAndCharacterLibrary.csproj"
-    },
     "InventoryAndCharacterLogic/1.0.0": {
       "type": "project",
       "path": "../InventoryAndCharacterLogic/InventoryAndCharacterLogic.csproj",
@@ -4103,7 +4081,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "InventoryAndCharacterLibrary >= 1.0.0",
       "InventoryAndCharacterLogic >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "NUnit >= 3.13.3",
@@ -4136,9 +4113,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
-              "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj"
-            },
             "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {
               "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj"
             }

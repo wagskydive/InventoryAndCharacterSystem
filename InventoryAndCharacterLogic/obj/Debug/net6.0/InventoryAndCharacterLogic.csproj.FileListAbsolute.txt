@@ -110,8 +110,6 @@ E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\nunit.engine.api.dll
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\nunit.engine.core.dll
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\testcentric.engine.metadata.dll
-E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLibrary.deps.json
-E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLibrary.runtimeconfig.json
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLogic.exe
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLogic.deps.json
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLogic.runtimeconfig.json
@@ -193,8 +191,6 @@ E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLibrary.dll
-E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\bin\Debug\net6.0\InventoryAndCharacterLibrary.pdb
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\obj\Debug\net6.0\InventoryAndCharacterLogic.csproj.AssemblyReference.cache
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\obj\Debug\net6.0\InventoryAndCharacterLogic.GeneratedMSBuildEditorConfig.editorconfig
 E:\Programming\InventoryAndCharacterSystem\InventoryAndCharacterLogic\obj\Debug\net6.0\InventoryAndCharacterLogic.AssemblyInfoInputs.cache

@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "UnitTests/1.0.0": {
         "dependencies": {
-          "InventoryAndCharacterLibrary": "1.0.0",
           "InventoryAndCharacterLogic": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.3.2",
           "NUnit": "3.13.3",
@@ -667,20 +666,8 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
-      "InventoryAndCharacterLibrary/1.0.0": {
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "17.3.2",
-          "NUnit": "3.13.3",
-          "NUnit.Console": "3.15.2",
-          "NUnit3TestAdapter": "4.2.1"
-        },
-        "runtime": {
-          "InventoryAndCharacterLibrary.dll": {}
-        }
-      },
       "InventoryAndCharacterLogic/1.0.0": {
         "dependencies": {
-          "InventoryAndCharacterLibrary": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.3.2",
           "NUnit": "3.13.3",
           "NUnit.Console": "3.15.2",
@@ -1061,11 +1048,6 @@
       "sha512": "sha512-Mk2mKmPi0nWaoiYeotq1dgeNK1fqWh61+EK+w4Wu8SWuTYLzpUnschb59bJtGywaPq7SmTuPf44wrXRwbIrukg==",
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
-    },
-    "InventoryAndCharacterLibrary/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "InventoryAndCharacterLogic/1.0.0": {
       "type": "project",

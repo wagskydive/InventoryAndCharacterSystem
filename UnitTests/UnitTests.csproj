@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\InventoryAndCharacterLogic\InventoryAndCharacterLogic.csproj" />
-    <ProjectReference Include="..\InventoryAndCharacterLibrary\InventoryAndCharacterLibrary.csproj" />
   </ItemGroup>
 
 
