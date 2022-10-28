@@ -214,3 +214,4 @@ E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\UnitTests.
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\ref\UnitTests.dll
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\Resources\TestItemLibrary.json
 E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\Resources\TestFileOneString.txt
+E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\Resources\CharacterTests.cs

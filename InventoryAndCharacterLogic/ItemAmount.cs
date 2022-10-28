@@ -6,7 +6,6 @@ namespace InventoryAndCharacterLogic
         {
             Item = type;
             Amount = amount;
-
         }
         public ItemType Item {get; private set;}
         public int Amount {get; private set;}
