@@ -1,6 +1,6 @@
 Inventory and Character system for implementation in games
 
-Tryout project to build a API
+Tryout project to build an API
 
 
 
