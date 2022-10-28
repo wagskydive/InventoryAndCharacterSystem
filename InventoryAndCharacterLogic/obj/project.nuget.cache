@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOV9nMlOfraCoDdUpnVT+nZNi/0rJPeK0YrSSD38LQt6Y28Ws4mWoAA6C5v7f3jNsLUPx6OmN/uSUrBhXlE8Ww==",
+  "dgSpecHash": "Vw+jS7skA+5IFkBdzioLb3gwyyAA3drSnA7WrqlzQ6mZS3xb/NmUJ8vV/fZuBviybhVW1isd7xhVL5UNLr1+XA==",
   "success": true,
-  "projectFilePath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj",
+  "projectFilePath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willem\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\Willem\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

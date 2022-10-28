@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4iOB5B1Y0yHRNaM9vEzbWJrAun6LOjwRuGu7BZ+euilumbmn7RIoWhTOONp0n8Jz5Ais2CvsTHTs+glnl+46iw==",
+  "dgSpecHash": "N3K7RNl09rMrOV92oliQLfHdaT0rCw5GjTOx36mUVL0L4asC3QK83RwkUHfIylowJcizuPPV6E6us6x14srxIQ==",
   "success": true,
-  "projectFilePath": "E:\\Programming\\InventoryAndCharacterLogic\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "E:\\Programming\\InventoryAndCharacterSystem\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willem\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\Willem\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -4117,11 +4117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\InventoryAndCharacterLogic\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "E:\\Programming\\InventoryAndCharacterSystem\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "E:\\Programming\\InventoryAndCharacterLogic\\UnitTests\\UnitTests.csproj",
+      "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Willem\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\InventoryAndCharacterLogic\\UnitTests\\obj\\",
+      "outputPath": "E:\\Programming\\InventoryAndCharacterSystem\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4136,11 +4136,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
-              "projectPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj"
+            "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
+              "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj"
             },
-            "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {
-              "projectPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj"
+            "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {
+              "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj"
             }
           }
         }

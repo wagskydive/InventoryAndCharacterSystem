@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {}
+    "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
+    "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj",
+        "projectUniqueName": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj",
         "projectName": "InventoryAndCharacterLibrary",
-        "projectPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj",
+        "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj",
         "packagesPath": "C:\\Users\\Willem\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\obj\\",
+        "outputPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {
+    "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj",
+        "projectUniqueName": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj",
         "projectName": "InventoryAndCharacterLogic",
-        "projectPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj",
+        "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic.csproj",
         "packagesPath": "C:\\Users\\Willem\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLogic\\obj\\",
+        "outputPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
-                "projectPath": "E:\\Programming\\InventoryAndCharacterLogic\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj"
+              "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj": {
+                "projectPath": "E:\\Programming\\InventoryAndCharacterSystem\\InventoryAndCharacterLibrary\\InventoryAndCharacterLibrary.csproj"
               }
             }
           }
