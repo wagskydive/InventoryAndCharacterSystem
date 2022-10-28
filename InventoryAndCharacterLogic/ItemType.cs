@@ -5,10 +5,12 @@ namespace InventoryAndCharacterLogic
 
     public class ItemType
     {
-        public string TypeName {get; internal set;}
-        public ItemAmount[] Recipe {get; internal set;}
-        public string ResourcePath {get; internal set;}
+        public string TypeName {get; private set;}
+        public int StackSize {get; private set;}
+        public ItemType(string typeName, int stackSize)
+        {
+            TypeName = typeName;
+            StackSize = stackSize;
+        }
     }
-
-
 }

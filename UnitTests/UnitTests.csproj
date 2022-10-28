@@ -4,6 +4,13 @@
     <ProjectReference Include="..\InventoryAndCharacterLogic\InventoryAndCharacterLogic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="Resources\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>

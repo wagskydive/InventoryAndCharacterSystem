@@ -212,3 +212,5 @@ E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\refint\Uni
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\UnitTests.pdb
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\UnitTests.genruntimeconfig.cache
 E:\Programming\InventoryAndCharacterSystem\UnitTests\obj\Debug\net6.0\ref\UnitTests.dll
+E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\Resources\TestItemLibrary.json
+E:\Programming\InventoryAndCharacterSystem\UnitTests\bin\Debug\net6.0\Resources\TestFileOneString.txt
